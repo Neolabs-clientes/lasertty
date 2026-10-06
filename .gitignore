@@ -1,0 +1,7 @@
+fotos_raw/
+*.py
+build_*.py
+ficha.json
+contact.jpg
+verif*.jpg
+cand_*.jpg
